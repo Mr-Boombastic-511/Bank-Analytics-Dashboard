@@ -26,7 +26,7 @@ This project showcases an end-to-end data analysis and visualization of bank loa
 | Tool      | Access Type  | Link |
 |-----------|--------------|------|
 | Tableau   | Interactive  | [View Dashboard](https://public.tableau.com/app/profile/siva.balaji1538/viz/BankLoanAnalytics_TableauDashboard/Dashboard1?publish=yes) |
-| Power BI  | Download     | [View Dashboard](https://drive.google.com/drive/folders/133QOeoeIy7zvP3_aN1GZj_WuuSTs5bEq?usp=sharing) |
+| Power BI  | Download     | [Download File](https://drive.google.com/drive/folders/133QOeoeIy7zvP3_aN1GZj_WuuSTs5bEq?usp=sharing) |
 | Excel     | Download     | [Download File](https://drive.google.com/drive/folders/133QOeoeIy7zvP3_aN1GZj_WuuSTs5bEq?usp=sharing) |
 
 ---
