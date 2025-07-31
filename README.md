@@ -1,5 +1,16 @@
 # 🏦 Bank Loan Dashboard Project
 
+## Preview of Excel Dashboard
+![Excel](https://github.com/user-attachments/assets/20d1fac1-dd9f-493a-ab8e-0d365fac72e9)
+
+## Preview of Tableau Dashboard
+![Tableau](https://github.com/user-attachments/assets/a16c0dc7-bb85-44d1-956a-3896dd0a6dd4)
+
+
+## Preview of Power BI Dashboard
+![Power BI](https://github.com/user-attachments/assets/74a0fa59-4849-4517-89bf-04281861d07f)
+
+
 This project showcases an end-to-end data analysis and visualization of bank loan records using **Excel**, **Power BI**, and **Tableau**. It highlights key performance indicators (KPIs), patterns, and trends to derive business insights from the loan dataset.
 
 ---
